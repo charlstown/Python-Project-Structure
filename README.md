@@ -7,7 +7,7 @@ You can see the cheatsheet here:
 
 *Download the cheatsheet from this link:* [cheatsheet](https://carlosgrande.me/wp-content/uploads/2020/10/Cheatsheat_PyProject-1.png)
 
-
+---
 
 ## 1. Description
 
